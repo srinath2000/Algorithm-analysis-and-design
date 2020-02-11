@@ -1,3 +1,4 @@
+//program with array (for comparing its time complexity with linked list)
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
