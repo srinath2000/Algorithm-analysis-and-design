@@ -1,4 +1,4 @@
-//binary search
+//binary search program to compare with linear search program
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
